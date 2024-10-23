@@ -1,1 +1,2 @@
-# enikma
+# Enikma
+bu bir metin şifreleme programıdır
