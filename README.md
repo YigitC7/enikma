@@ -1,4 +1,4 @@
-# Enikma
+# Micro Enikma Şifreleme
 Enikma bir şifreleme programıdır.Girdiğiniz metni şifreler veya şifrelenmiş bir metni tekrar çözer. Bu programda şifrelenen bir metin sadece bu programda çözülür, bu şifreleme metodunu gizli tutabilmek için bu programın kaynak kodları gizlidir. Bu program sadece GNU Linux işletim sistemlerinde çalışır.
 ## Kur veya güncelle
 Debian ve debian tabanlı dağıtımlar için
