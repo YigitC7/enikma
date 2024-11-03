@@ -7,4 +7,4 @@ For Debian and debian-based distributions
   <pre><code>curl -sSL https://micro-pack.netlify.app/enikma/install.sh | bash</code></pre>
 </div>
 <br>
-![kapak](img/kapak.png)
+![kapak0](img/kapak.png)
