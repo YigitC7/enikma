@@ -6,3 +6,6 @@ For Debian and debian-based distributions
   <button style="position:absolute; top:5px; right:5px; background-color:#fff; border:none; color:#000; padding:5px 10px; border-radius:3px;" onclick="navigator.clipboard.writeText('curl -sSL https://micro-pack.netlify.app/enikma/install.sh | bash')"></button>
   <pre><code>curl -sSL https://micro-pack.netlify.app/enikma/install.sh | bash</code></pre>
 </div>
+[![CTk](img/ctk.png)](https://customtkinter.tomschimansky.com/)
+<br>
+![kapak](img/kapak.png)
